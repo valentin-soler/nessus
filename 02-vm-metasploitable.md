@@ -8,4 +8,13 @@ Vous devez uploader la version OVA directement sur votre Proxmox
 ![](img/Capture%20d'écran_20261021_094339.png)
 
 Vous pouvez maintenant selectionner le fichier OVA et cliquer sur "Import"
+
 ![](img/Capture%20d'écran_20261022_100516.png)
+
+Vous pouvez laisser les valeurs par défaut, La Machine ne réclame pas plus et ce sont les valeurs choisi par Rapid7
+
+![](img/Capture%20d'écran_20261022_100859.png)
+
+Et voila !
+![](img/Capture%20d'écran_20261022_110016.png)
+![](img/Capture%20d'écran_20261022_110319.png)
