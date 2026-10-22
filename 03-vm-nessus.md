@@ -1,8 +1,8 @@
-# Installation de Nessus
+# Nessus
 
 Nous allons maintenant installer Nessus sur une machine virtuel (2vCpu/8Go de Ram/64 Go de stockage).
 
-## Prérequis
+## Prérequis & Installation
 
 Vous pouvez récupéré votre version d'essaie [ici](https://www.tenable.com/tenable-nessus-for-education), Aprés avoir remplis le questionnaire pour la demande d'essaie, vous allez tomber sur cette page.
 
