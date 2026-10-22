@@ -39,3 +39,21 @@ Repatienter un petit peu
 ![](img/Capture%20d'écran_20261022_133352.png)
 
 Et voila c'est installer !
+
+## Scan de notre premiére victimes
+
+Nous allons faire un scan sur notre machine vulnérable (ici 10.10.10.103)
+
+![](img/Capture%20d'écran_20261022_140623.png)
+
+![](img/Capture%20d'écran_20261022_140738.png)
+
+Patientez un peu
+
+![](img/Capture%20d'écran_20261022_140846.png)
+
+Et voila ! Comme on peut le voir notre machine est un gruyére
+
+![](img/Capture%20d'écran_20261022_142726.png)
+
+![](img/Capture%20d'écran_20261022_142935.png)
